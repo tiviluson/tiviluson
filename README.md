@@ -1,4 +1,4 @@
-### Hiiiii, I am Hung (aka *tiviluson*) :wave: 👨‍💻 
+### Hiiiii, I am Hung (aka *tiviluson*)  <img src="/assets/wave.gif" width=40px> 👨‍💻 
 
 <!--
 **tiviluson/tiviluson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
