@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🙆‍♂️ Currently I am...
-- 📜 I'm currently a student of Computer Engineering from Ho Chi Minh University of Technology!
+# 🙆‍♂️ I'm proud that...
+- 📜 I am currently a student of Computer Engineering from Ho Chi Minh University of Technology!
 - 🌐 I am a multilingual person! I speak Vietnamese, English, Chinese (both Cantonese and Mandarin).
-- 🔭 I’m currently working on IoT, Embedded systems and Machine Learning projects.
+- 🔭 I am currently working on IoT, Embedded systems and Machine Learning projects.
 - 🌱 Recently, I am learning about mobile application programming, particularly Flutter.
 - 📚 I love Mathematics and education in general.
 - 😻 I am a cat person (although I was initially a dog lover, still love them though).
