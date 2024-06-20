@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤝🏼 If you want to collaborate with me on any projects, please don't hesitate to contact me (info below).
 
 # 💻 My Skills are...
-<img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-f3f3f3?style=flat&logo=pytorch&logoColor=orange" /> 	 <img alt="AWS" src="https://img.shields.io/badge/AWS-orange?style=plastic&logo=amazonwebservices" /> <img alt="GCP" src="https://img.shields.io/badge/GCP-blue?style=social&logo=googlecloud&logoColor=yellow" />
+<img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-f3f3f3?style=flat&logo=pytorch&logoColor=orange" /> 	 <img alt="AWS" src="https://img.shields.io/badge/AWS-orange?style=plastic&logo=amazonwebservices" /> <img alt="GCP" src="https://img.shields.io/badge/GCP-blue?style=plastic&logo=googlecloud&logoColor=yellow" />
 
 # 📇 You can connect me via
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="40em" align="center" alt="Follow nhu-hung-huynh on LinkedIn" title="Follow nhu-hung-huynh on LinkedIn"/>](https://linkedin.com/in/nhu-hung-huynh)
