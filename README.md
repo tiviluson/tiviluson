@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🙆‍♂️ I'm proud that...
-- 📜 I am a proud graduate (the top of my major) of Computer Engineering from Ho Chi Minh University of Technology!
+- 🤖 I am an AI engineer with the main focus being LLM-integrated applications and building machine learning systems with MLOPs practices!
+- ☁️ I am Certified AWS Developer!
+- 📜 I am Master student of Computer Science at University of Texas at Austin 🐂!
+- 👨‍💻 I was a Software Engineer at Bosch Global Software Technologies!
+- 📜 I am proud graduate (the top of my major) of Computer Engineering from Ho Chi Minh University of Technology!
 - 🌐 I am a multilingual person! I speak Vietnamese, English, Chinese (both Cantonese and Mandarin).
-- 🔭 I am currently working on Embedded systems, Cloud technologies and Machine Learning projects.
-- 🌱 Currenty, I am learning about Deep learning and DevOps engineering.
 - 📚 I love Mathematics and education in general.
 - 😻 I am a cat person (although I was initially a dog lover, still love them though).
 - 🤝🏼 If you want to collaborate with me on any projects, please don't hesitate to contact me (info below).
